@@ -1,0 +1,42 @@
+# Compiled Java class files
+*.class
+
+# Build and distribution directories
+build/
+dist/
+target/
+out/
+bin/
+
+# NetBeans user-specific settings
+**/nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Visual Studio Code
+.vscode/
+
+# OS generated files
+Thumbs.db
+desktop.ini
+.DS_Store
+.DS_Store?
+._*
+
+# Log files and crash dumps
+*.log
+*.tmp
+*.bak
+*~
